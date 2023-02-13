@@ -1,0 +1,15 @@
+C:\Users\abhijith.ks\Desktop\4thc\Automation Testing\Swap_Numbers\Swap_Numbers\bin\Debug\net6.0\Swap_Numbers.exe
+C:\Users\abhijith.ks\Desktop\4thc\Automation Testing\Swap_Numbers\Swap_Numbers\bin\Debug\net6.0\Swap_Numbers.deps.json
+C:\Users\abhijith.ks\Desktop\4thc\Automation Testing\Swap_Numbers\Swap_Numbers\bin\Debug\net6.0\Swap_Numbers.runtimeconfig.json
+C:\Users\abhijith.ks\Desktop\4thc\Automation Testing\Swap_Numbers\Swap_Numbers\bin\Debug\net6.0\Swap_Numbers.dll
+C:\Users\abhijith.ks\Desktop\4thc\Automation Testing\Swap_Numbers\Swap_Numbers\bin\Debug\net6.0\Swap_Numbers.pdb
+C:\Users\abhijith.ks\Desktop\4thc\Automation Testing\Swap_Numbers\Swap_Numbers\obj\Debug\net6.0\Swap_Numbers.csproj.AssemblyReference.cache
+C:\Users\abhijith.ks\Desktop\4thc\Automation Testing\Swap_Numbers\Swap_Numbers\obj\Debug\net6.0\Swap_Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abhijith.ks\Desktop\4thc\Automation Testing\Swap_Numbers\Swap_Numbers\obj\Debug\net6.0\Swap_Numbers.AssemblyInfoInputs.cache
+C:\Users\abhijith.ks\Desktop\4thc\Automation Testing\Swap_Numbers\Swap_Numbers\obj\Debug\net6.0\Swap_Numbers.AssemblyInfo.cs
+C:\Users\abhijith.ks\Desktop\4thc\Automation Testing\Swap_Numbers\Swap_Numbers\obj\Debug\net6.0\Swap_Numbers.csproj.CoreCompileInputs.cache
+C:\Users\abhijith.ks\Desktop\4thc\Automation Testing\Swap_Numbers\Swap_Numbers\obj\Debug\net6.0\Swap_Numbers.dll
+C:\Users\abhijith.ks\Desktop\4thc\Automation Testing\Swap_Numbers\Swap_Numbers\obj\Debug\net6.0\refint\Swap_Numbers.dll
+C:\Users\abhijith.ks\Desktop\4thc\Automation Testing\Swap_Numbers\Swap_Numbers\obj\Debug\net6.0\Swap_Numbers.pdb
+C:\Users\abhijith.ks\Desktop\4thc\Automation Testing\Swap_Numbers\Swap_Numbers\obj\Debug\net6.0\Swap_Numbers.genruntimeconfig.cache
+C:\Users\abhijith.ks\Desktop\4thc\Automation Testing\Swap_Numbers\Swap_Numbers\obj\Debug\net6.0\ref\Swap_Numbers.dll
